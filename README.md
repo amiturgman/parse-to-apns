@@ -1,2 +1,3 @@
 # parse-to-apns
-Node.js module and tool to migrate android and ios users from parse to Azure Push Notification Hub
+Module name changed. 
+Please visit [parse-to-anh](https://github.com/amiturgman/parse-to-anh.git).
